@@ -5,5 +5,5 @@
 ## Dr. Ames is a marvelous professor, and I believe he will help me to achieve those goals. 
 
 # Details of Final Project
-Our project will have score rate for connectivities, some of connectivities option will be different than Google Map. 
-The user can choose their trip purpose such as shopping, jogging, cycling, etc.
+## Our project will have score rate for connectivities, some of connectivities option will be different than Google Map. 
+## The user can choose their trip purpose such as shopping, jogging, cycling, etc.
